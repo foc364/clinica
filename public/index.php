@@ -19,7 +19,7 @@
 |
 */
 
-require __DIR__.'/../laravel/clinica/bootstrap/autoload.php';
+require __DIR__.'/clinica/bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -33,7 +33,7 @@ require __DIR__.'/../laravel/clinica/bootstrap/autoload.php';
 |
 */
 
-$app = require_once __DIR__.'/../laravel/clinica/bootstrap/app.php';
+$app = require_once __DIR__.'/clinica/bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------

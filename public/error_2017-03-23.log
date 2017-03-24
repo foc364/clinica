@@ -1,0 +1,8 @@
+[Thu Mar 23 14:40:19.144173 2017] [so:warn] [pid 9] AH01574: module authz_core_module is already loaded, skipping
+[Thu Mar 23 14:40:19.145723 2017] [so:warn] [pid 9] AH01574: module authz_host_module is already loaded, skipping
+[Thu Mar 23 14:40:22.483687 2017] [auth_digest:notice] [pid 24] AH01757: generating secret for digest authentication ...
+[Thu Mar 23 14:40:24.915002 2017] [mpm_prefork:notice] [pid 24] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Mar 23 14:40:24.915766 2017] [core:notice] [pid 24] AH00094: Command line: '/usr/sbin/httpd'
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp
+Created directory: /var/lib/net-snmp/mib_indexes
